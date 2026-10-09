@@ -1,0 +1,19 @@
+{
+  "name": "eliseugaspar-skills",
+  "owner": {
+    "name": "Eliseu Augusto Gaspar Gonçalves",
+    "url": "https://github.com/EliseuGaspar"
+  },
+  "plugins": [
+    {
+      "name": "commiter-skill",
+      "source": "./",
+      "description": "End-to-end git commit workflow: atomic commits, precise staging, and Conventional Commits messages in English.",
+      "version": "1.0.0",
+      "author": { "name": "Eliseu Augusto Gaspar Gonçalves" },
+      "homepage": "https://github.com/EliseuGaspar/commiter-skill",
+      "license": "MIT",
+      "keywords": ["git", "commit", "conventional-commits", "atomic-commits"]
+    }
+  ]
+}

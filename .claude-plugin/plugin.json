@@ -1,0 +1,13 @@
+{
+  "name": "commiter-skill",
+  "description": "End-to-end git commit workflow: inspects changes, splits them into atomic commits, stages precisely, and writes Conventional Commits messages in English.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Eliseu Augusto Gaspar Gonçalves",
+    "url": "https://github.com/EliseuGaspar"
+  },
+  "homepage": "https://github.com/EliseuGaspar/commiter-skill",
+  "repository": "https://github.com/EliseuGaspar/commiter-skill",
+  "license": "MIT",
+  "keywords": ["git", "commit", "conventional-commits", "atomic-commits", "skill"]
+}
